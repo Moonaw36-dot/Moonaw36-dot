@@ -61,8 +61,7 @@
 
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Moonaw36-dot&theme=tokyonight&hide_border=true&background=0d1117&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED)
 
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Moonaw36-dot&layout=compa
-  ct&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C3AED&text_color=c9d1d9)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Moonaw36-dot&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C3AED&text_color=c9d1d9)
 
   ---
 
