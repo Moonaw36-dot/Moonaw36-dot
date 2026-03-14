@@ -1,9 +1,7 @@
   # Hey, I'm Moonaw 👋                                                                                     
                                                                                                            
-  [![Profile Views](https://komarev.com/ghpvc/?username=Moonaw36-dot&color=7C3AED&style=flat)](https://gith
-  ub.com/Moonaw36-dot)                                                                                   
-  [![GitHub followers](https://img.shields.io/github/followers/Moonaw36-dot?style=flat&color=7C3AED)](https
-  ://github.com/Moonaw36-dot)
+  [![Profile Views](https://komarev.com/ghpvc/?username=Moonaw36-dot&color=7C3AED&style=flat)](https://github.com/Moonaw36-dot)                                                                                   
+  [![GitHub followers](https://img.shields.io/github/followers/Moonaw36-dot?style=flat&color=7C3AED)](https://github.com/Moonaw36-dot)
 
   ---
 
