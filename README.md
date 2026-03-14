@@ -48,9 +48,9 @@
   ## 📈 My Journey
 
   ```
-  C#       ██████████████░░░░░░  ~70%  ← Getting pretty solid
-  Web Dev  ██████░░░░░░░░░░░░░░  ~30%  ← Learning the ropes
-  Backend  ███░░░░░░░░░░░░░░░░░  ~15%  ← Just getting started!
+  C#       ██████████████░░░░░░  ~70%  ← Somewhat okayy
+  Web Dev  ██████░░░░░░░░░░░░░░  ~30%  ← Still learning
+  Backend  ███░░░░░░░░░░░░░░░░░  ~15%  ← Just started
   ```
 
   ---
