@@ -12,8 +12,8 @@
   {
       Name         = "Moonaw",
       Interests    = new[] { "C#", "Backend", "Web Dev", "Game Modding" },
-      CurrentFocus = "Learning backend development & sharpening my web skills",
-      FunFact      = "I make mods for Gorilla Tag 🦍"
+      CurrentFocus = "Learning backend development & web dev",
+      FunFact      = "I make dumb shit"
   };
   ```
 
