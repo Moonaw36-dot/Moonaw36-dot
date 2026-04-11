@@ -20,8 +20,6 @@
   - 🔭 Currently building: backend projects and improving my web skills
   - 🌱 Learning: ASP.NET, REST APIs, and frontend basics
   - 🦍 Known for: Gorilla Tag mods
-  - 💬 Ask me about: C# and .NET
-
   ---
 
   ## 🛠 Tech Stack
